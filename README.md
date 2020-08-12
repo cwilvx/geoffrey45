@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Mungai's github stats](https://github-readme-stats.vercel.app/api?username=geoffrey45&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geoffrey45)](https://github.com/anuraghazra/github-readme-stats)
