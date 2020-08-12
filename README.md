@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I do knife throwing as a hobby
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=geoffrey45" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=geoffrey45&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoffrey45&layout=compact" />
 </a>
