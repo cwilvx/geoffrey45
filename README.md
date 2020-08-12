@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I do knife throwing as a hobby
 -->
-[![Mungai's github stats](https://github-readme-stats.vercel.app/api?username=geoffrey45&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Mungai's github stats](https://github-readme-stats.vercel.app/api?username=geoffrey45&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
