@@ -9,3 +9,4 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I do knife throwing as a sport
 -->
+![](https://komarev.com/ghpvc/?username=geoffrey45)
