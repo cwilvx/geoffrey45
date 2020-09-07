@@ -10,16 +10,15 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I do knife throwing as a sport
 -->
- <div style="display: inline-flex;">
-  <a class="social" href="https://github.com/geoffrey45" target="_blank"><i cla$
-  <a class="social" href="https://www.instagram.com/geoffrey45_/" target="_blan$
+<div style="display: inline-flex;">
+  <a class="social" href="https://github.com/geoffrey45" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+  <a class="social" href="https://www.instagram.com/geoffrey45_/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i>
   </a>
-  <a class="social" href="https://www.linkedin.com/in/geoffrey45/" target="_bla$
+  <a class="social" href="https://www.linkedin.com/in/geoffrey45/" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i>
   </a>
-  <a class="social" href="https://twitter.com/geoffrey45_" target="_blank"><i c$
+  <a class="social" href="https://twitter.com/geoffrey45_" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i>
   </a>
-  <a class="social" href="mailto:geoffreymungai45@gmail.com" target="_blank"><i$
+  <a class="social" href="mailto:geoffreymungai45@gmail.com" target="_blank"><i class="fa fa-envelope-o" aria-hidden="true"></i>
   </a>
-  </div>
-
+</div>
 ![](https://komarev.com/ghpvc/?username=geoffrey45)
