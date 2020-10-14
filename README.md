@@ -1,2 +1,2 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=geoffrey45)
+<!--![](https://komarev.com/ghpvc/?username=geoffrey45)
